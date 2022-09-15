@@ -1,0 +1,12 @@
+body{
+    background: 202020;
+}
+
+.card-body{
+    box-shadow: 1px 5px 15px #a2a2a2;
+    
+}
+
+.card-body:hover{
+    box-shadow: 1px 1px 20px #d2d2d2;
+}
